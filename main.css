@@ -1,0 +1,24 @@
+body {
+    background-image: url("bkg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: white;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+div {
+    background-color: rgb(145, 42, 119);
+    width: 200px;
+    height: 50px;
+
+}
+
+span {
+    color: purple;
+}
+
+.p1 {
+    color: red;
+}
